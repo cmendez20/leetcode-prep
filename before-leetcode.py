@@ -3,7 +3,7 @@
 # Iterate Over an Array
 # Write a function that prints each element in an array in order from the first to the last.
 nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-primes = [2, 8, 6, 7, 9, 15]
+primes = [4, 8, 6, 7, 9, 15]
 
 
 def iterateOverArray():
@@ -35,3 +35,9 @@ def fetchSecondElement():
 
 # Find the Index of a Target Element
 # Iterate over an array and find the first prime number. Stop the iteration once you find it.
+# def findTarget():
+#     for x in primes:
+#         if x > 1 and x :
+
+# traverse a Two-Dimensional Array
+# write a function to print all elements of a 2D array (matrix), row by row.
